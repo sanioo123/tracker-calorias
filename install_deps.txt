@@ -1,8 +1,0 @@
-npx create-next-app@latest calorias-prueba-git --app --src-dir
-npm install lucide-react
-npm install -D @types/node
-
-npm install mysql2
-
-npm install mysql2 bcryptjs jsonwebtoken
-npm install -D @types/bcryptjs @types/jsonwebtoken
